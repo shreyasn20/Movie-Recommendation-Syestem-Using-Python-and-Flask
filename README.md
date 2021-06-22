@@ -6,6 +6,8 @@ Hi I made this project <b> MOVIE-RECOMMENDATION-SYSTEM
 <li>Python
 <li>Flask
 <li>Machine Learning
+  
+  ![](page1.png)
 
 
 <br><br><strong>Visit and follow me on:
