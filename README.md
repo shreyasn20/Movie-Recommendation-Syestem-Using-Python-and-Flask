@@ -6,9 +6,7 @@ Hi I made this project <b> MOVIE-RECOMMENDATION-SYSTEM
 <li>Python
 <li>Flask
 <li>Machine Learning
-<li>Sklearn
-<li>Pandas
-<li>Difflib
+
 
 <br><br><strong>Visit and follow me on:
 <li><a href=
