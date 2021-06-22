@@ -10,7 +10,7 @@ Hi I made this project <b> MOVIE-RECOMMENDATION-SYSTEM
 <li>Pandas
 <li>Difflib
 
-<br>
+<br><br><strong>Visit and follow me on:
 <li><a href=
 "https://www.linkedin.com/in/shreyas-nimbhore-7b2863107/">LinkedIn</a>
 <li><a href=
